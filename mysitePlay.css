@@ -1,0 +1,125 @@
+
+
+.module-border-wrap{
+	 display: flex;
+	 justify-content: center;
+	font-family: Roboto, Arial, sans-serif;
+  font-size: 2vmax;
+  background-color: #2AA5A0;
+  
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, white, fuchsia);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+
+ 
+}
+
+.module-border-wrap1{
+	 display: flex;
+	 justify-content: center;
+	font-family: Roboto, Arial, sans-serif;
+  font-size: 2vmax;
+  background-color: #2AA5A0;
+  color: transparent;    
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, white, fuchsia);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 75px;
+
+ 
+}
+
+.module-border-wrap2{
+	display: flex;
+	 justify-content: center;
+	font-family: Roboto, Arial, sans-serif;
+  font-size: 0.9vmax;
+  background-color: #2AA5A0;
+  color: transparent;    
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, white, fuchsia);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 40px;
+}
+
+
+.module-border-wrap3{
+	display: flex;
+	 justify-content: center;
+
+	font-family: Roboto, Arial, sans-serif;
+  font-size: 0.9vmax;
+  background-color: #2AA5A0;
+ color: transparent;    
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, white, fuchsia);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 5em;
+}
+
+body{
+ background: url(resize.jpg) repeat-y
+
+}
+h1{
+	color: #DB4D0F;
+}
+.w:hover {
+ display: flex;
+   justify-content: center;
+  
+ 
+  background-color: #2AA5A0;
+  color: transparent;    
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, pink, fuchsia);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+}
+
+.module-border-wrap4{
+  display: flex;
+   justify-content: center;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 0.9vmax;
+ 
+  color: transparent;    
+  -webkit-background-clip: text;
+  background-clip: text;
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 40px;
+  text-transform: uppercase;
+
+   background-color: rgba(255, 255, 255, 0.75)
+   color: #FFF;
+}
+
+.module-border-wrap4:hover{
+  display: flex;
+   justify-content: center;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 0.9vmax;
+  background-color: #2AA5A0;
+  color: transparent;    
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: linear-gradient(to right, white, fuchsia);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-top: 40px;
+  
+  
+}
